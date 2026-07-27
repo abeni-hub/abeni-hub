@@ -1,169 +1,72 @@
-# 👋 Hi, I'm Abenezer Sileshi
+# Hi, I'm Abenezer Sileshi 👋
+### Full Stack Software Engineer | React · Next.js · NestJS · AI-Integrated Systems · Multi-Tenant SaaS
 
-## Full Stack Software Engineer | React • Next.js • NestJS • AI • Multi-Tenant SaaS
-
-I design and build production-ready SaaS platforms, enterprise applications, and AI-powered systems with a strong focus on scalability, performance, and maintainability.
-
-Over the past **4+ years**, I've developed software across healthcare, education, enterprise inventory management, and multi-tenant SaaS, taking products from architecture and database design through deployment and long-term maintenance.
-
----
-
-## 🚀 What I Build
-
-- Enterprise Web Applications
-- Multi-Tenant SaaS Platforms
-- AI-Powered Business Systems
-- REST APIs & Microservices
-- Healthcare Platforms
-- Inventory & ERP Systems
-- Cloud-Ready Applications
-- Secure Authentication & RBAC
+I build production SaaS platforms and AI-integrated systems — from architecture and
+database design through deployment and long-term maintenance. Over the past 4+ years
+I've shipped across healthcare, government-affiliated education, and multi-tenant SaaS.
 
 ---
 
 ## 💼 Featured Projects
 
-### 🏢 Enterprise Inventory Management Platform
+### 🏥 AI-Powered Multi-Tenant Clinic Management Platform
+Production healthcare platform where AI voice agents (Retell AI over Twilio) handle
+live appointment booking, insurance verification, and intake across 6-15 branch
+locations — with branch-aware access control and isolated tenant data.
+**Stack:** React · NestJS · Retell AI · Twilio · OpenAI · PostgreSQL · Docker · AWS S3
+**Repo:** [smilecare-appointment-system](https://github.com/sweatshirt2/smilecare-appointment-system)
 
-A production-grade inventory platform featuring:
+### 📦 Enterprise Inventory Management Platform
+Cut order-processing time from 5-7s to under 1s via RabbitMQ async processing, and
+dashboard load time by ~70% via Redis caching. BullMQ background workers, AI-powered
+stock forecasting, full CI/CD.
+**Stack:** NestJS · Prisma · PostgreSQL · RabbitMQ · Redis · BullMQ · GitHub Actions
+**Repo:** [Enterprise-Inventory-Management-System-Demo](https://github.com/abeni-hub/Enterprise-Inventory-Management-System-Demo)
 
-- AI-powered inventory forecasting
-- Redis caching
-- RabbitMQ messaging
-- BullMQ background workers
-- PostgreSQL
-- Role-Based Access Control
-- Analytics Dashboard
-- Docker deployment
+### 💊 Multi-Tenant Pharmacy SaaS Platform
+Multi-tenant architecture cutting infrastructure costs ~40% vs. isolated deployments,
+with onboarding reduced from 30 minutes to under 5 via automated tenant provisioning.
+**Stack:** Django REST Framework · React · PostgreSQL · GitHub Actions
+**Repo:** [Mutli-Tenant-Pharmacy-Backend](https://github.com/abeni-hub/Mutli-Tenant-Pharmacy-Backend)
 
-**Tech**
-
-React • Next.js • NestJS • PostgreSQL • Redis • RabbitMQ • Docker
-
----
-
-### 🤖 AI Multi-Tenant Clinic Platform
-
-Production healthcare SaaS including:
-
-- AI Voice Agents
-- Retell AI
-- Twilio
-- OpenAI
-- Appointment Scheduling
-- Insurance Verification
-- Multi-Tenant Architecture
-- Docker Deployment
-
----
-
-### 🏛 Government Examination Platform
-
-Modern examination platform featuring:
-
-- Microservices
-- Randomized assessments
-- Certificate generation
-- Secure authentication
-- RBAC
-- Scalable backend architecture
-
----
-
-### 💊 Multi-Tenant Pharmacy SaaS
-
-Enterprise pharmacy management system including:
-
-- Subscription Management
-- Analytics Dashboard
-- Inventory
-- Reporting
-- Multi-Tenant Architecture
+### 🎓 Government Exam & Certification Microservice *(In Development)*
+Decoupled examination microservice integrating with an existing LMS via SSO —
+multi-pool randomized assessments, automated grading, verifiable certificates —
+in partnership with a government education body.
+**Stack:** Next.js · NestJS · Prisma · PostgreSQL · JWT/RBAC
+**Repo:** [set-platform-be](https://github.com/segni9997/set-platform-be)
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, shadcn/ui , Figma , Material UI
+**Backend:** NestJS, Node.js, Django REST Framework, REST & Microservice API Design
+**Databases:** PostgreSQL, Prisma ORM, MySQL , MongGo DB
+**Messaging & Performance:** RabbitMQ, Redis, BullMQ
+**AI Integration:** OpenAI API,RAG, n8n, Retell AI (Voice Agents), AI-Powered Forecasting
+**Infrastructure:** Docker, AWS S3, GitHub Actions (CI/CD), Linux , kubernet, Ngnix
 
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-- shadcn/ui
-- Figma
-
-### Backend
-
-- NestJS
-- Node.js
-- Django REST Framework
-- Laravel
-
-### Databases
-
-- PostgreSQL
-- Prisma ORM
-- MySQL
-- MongoDB
-
-### AI
-
-- n8n
-- RAG
-- LangChain
-- Retell AI
-- Twilio
-
-### Infrastructure
-
-- Docker
-- GitHub Actions
-- Redis
-- RabbitMQ
-- BullMQ
-- AWS S3
+**Currently exploring:** RAG architecture & vector search (Pinecone), Claude API
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=abeni-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeni-hub&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-## 🌍 Connect With Me
+## 🌍 Connect
 
-🌐 Portfolio
-
-https://abenezersileshi.pro.et
-
-💼 LinkedIn
-
-https://linkedin.com/in/abenezersileshi
-
-📧 Email
-
-abenezersileshib@gmail.com
+🌐 Portfolio: [abenezersileshi.pro.et](https://abenezersileshi.pro.et)
+💼 LinkedIn: [linkedin.com/in/abenezer-sileshi](https://linkedin.com/in/abenezer-sileshi)
+📧 Email: abinesilew@gmail.com
 
 ---
 
-## 🎯 Current Focus
-
-- Enterprise SaaS Development
-- AI Applications
-- Multi-Tenant Architecture
-- Distributed Systems
-- Backend Performance Optimization
-- Cloud & DevOps
-- Open Source Contributions
-
----
-
-> *"Building software that solves business problems through clean architecture, scalable systems, and measurable results."*
+> Building software that solves real business problems — clean architecture,
+> scalable systems, measurable results.
