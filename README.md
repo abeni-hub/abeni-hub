@@ -65,7 +65,7 @@ Developing a standalone examination microservice for a government-affiliated edu
 
 Next.js · NestJS · PostgreSQL · Prisma ORM · JWT · RBAC
 
-🔗 **Repository:** https://github.com/segni9997/set-platform-be
+🔗 **Repository:** https://github.com/abeni-hub/SET-with-EXAM-SERVICE.git
 
 ---
 
