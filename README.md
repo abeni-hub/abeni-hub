@@ -1,57 +1,103 @@
 # Hi, I'm Abenezer Sileshi 👋
+
 ### Full Stack Software Engineer | React · Next.js · NestJS · AI-Integrated Systems · Multi-Tenant SaaS
 
-I build production SaaS platforms and AI-integrated systems — from architecture and
-database design through deployment and long-term maintenance. Over the past 4+ years
-I've shipped across healthcare, government-affiliated education, and multi-tenant SaaS.
+I design and build **production-ready SaaS platforms, AI-powered business systems, and enterprise applications** that prioritize scalability, performance, and maintainability.
+
+Over the past **4+ years**, I've delivered software across **healthcare, government-affiliated education, enterprise inventory management, and multi-tenant SaaS**, taking products from **architecture and database design through deployment, optimization, and long-term maintenance.**
 
 ---
 
-## 💼 Featured Projects
+## 🚀 What I Build
 
-### 🏥 AI-Powered Multi-Tenant Clinic Management Platform
-Production healthcare platform where AI voice agents (Retell AI over Twilio) handle
-live appointment booking, insurance verification, and intake across 6-15 branch
-locations — with branch-aware access control and isolated tenant data.
-**Stack:** React · NestJS · Retell AI · Twilio · OpenAI · PostgreSQL · Docker · AWS S3
-**Repo:** [smilecare-appointment-system](https://github.com/sweatshirt2/smilecare-appointment-system)
-
-### 📦 Enterprise Inventory Management Platform
-Cut order-processing time from 5-7s to under 1s via RabbitMQ async processing, and
-dashboard load time by ~70% via Redis caching. BullMQ background workers, AI-powered
-stock forecasting, full CI/CD.
-**Stack:** NestJS · Prisma · PostgreSQL · RabbitMQ · Redis · BullMQ · GitHub Actions
-**Repo:** [Enterprise-Inventory-Management-System-Demo](https://github.com/abeni-hub/Enterprise-Inventory-Management-System-Demo)
-
-### 💊 Multi-Tenant Pharmacy SaaS Platform
-Multi-tenant architecture cutting infrastructure costs ~40% vs. isolated deployments,
-with onboarding reduced from 30 minutes to under 5 via automated tenant provisioning.
-**Stack:** Django REST Framework · React · PostgreSQL · GitHub Actions
-**Repo:** [Mutli-Tenant-Pharmacy-Backend](https://github.com/abeni-hub/Mutli-Tenant-Pharmacy-Backend)
-
-### 🎓 Government Exam & Certification Microservice *(In Development)*
-Decoupled examination microservice integrating with an existing LMS via SSO —
-multi-pool randomized assessments, automated grading, verifiable certificates —
-in partnership with a government education body.
-**Stack:** Next.js · NestJS · Prisma · PostgreSQL · JWT/RBAC
-**Repo:** [set-platform-be](https://github.com/segni9997/set-platform-be)
+- 🏢 Enterprise SaaS Platforms
+- 🤖 AI-Integrated Business Applications
+- ⚡ High-Performance Backend Systems
+- 🔐 Secure Authentication & Multi-Tenant Architecture
+- 📊 Enterprise Dashboards & Analytics
+- ☁️ Cloud-Ready Applications & CI/CD Pipelines
 
 ---
 
-## 🛠 Tech Stack
+# 💼 Featured Projects
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, shadcn/ui , Figma , Material UI
-**Backend:** NestJS, Node.js, Django REST Framework, REST & Microservice API Design
-**Databases:** PostgreSQL, Prisma ORM, MySQL , MongGo DB
-**Messaging & Performance:** RabbitMQ, Redis, BullMQ
-**AI Integration:** OpenAI API,RAG, n8n, Retell AI (Voice Agents), AI-Powered Forecasting
-**Infrastructure:** Docker, AWS S3, GitHub Actions (CI/CD), Linux , kubernet, Ngnix
+## 🏥 AI-Powered Multi-Tenant Clinic Management Platform
 
-**Currently exploring:** RAG architecture & vector search (Pinecone), Claude API
+Production healthcare platform where **AI voice agents (Retell AI + Twilio)** automate appointment booking, insurance verification, and patient intake across **6–15 clinic branches** with secure tenant isolation and branch-aware access control.
+
+**Tech Stack**
+
+React · NestJS · Retell AI · Twilio · OpenAI · PostgreSQL · Docker · AWS S3
+
+🔗 **Repository:** https://github.com/sweatshirt2/smilecare-appointment-system
 
 ---
 
-## 📈 GitHub Stats
+## 📦 Enterprise Inventory Management Platform
+
+Designed a high-performance enterprise inventory system using **RabbitMQ, Redis, and BullMQ**, reducing order-processing time from **5–7 seconds to under 1 second** and improving dashboard performance by **approximately 70%** through caching and asynchronous processing.
+
+**Tech Stack**
+
+NestJS · PostgreSQL · Prisma ORM · Redis · RabbitMQ · BullMQ · GitHub Actions
+
+🔗 **Repository:** https://github.com/abeni-hub/Enterprise-Inventory-Management-System-Demo
+
+---
+
+## 💊 Multi-Tenant Pharmacy SaaS Platform
+
+Developed a scalable multi-tenant pharmacy platform that reduced infrastructure costs by **approximately 40%** while decreasing customer onboarding from **30 minutes to under 5 minutes** through automated tenant provisioning and centralized deployment.
+
+**Tech Stack**
+
+React · Django REST Framework · PostgreSQL · GitHub Actions
+
+🔗 **Repository:** https://github.com/abeni-hub/Mutli-Tenant-Pharmacy-Backend
+
+---
+
+## 🎓 Government Examination & Certification Microservice *(In Development)*
+
+Developing a standalone examination microservice for a government-affiliated education platform featuring **SSO integration, randomized assessments, automated grading, certificate generation, and secure RBAC**, designed with a scalable microservice architecture.
+
+**Tech Stack**
+
+Next.js · NestJS · PostgreSQL · Prisma ORM · JWT · RBAC
+
+🔗 **Repository:** https://github.com/segni9997/set-platform-be
+
+---
+
+# 🛠 Technology Stack
+
+### Frontend
+
+React • Next.js • TypeScript • Tailwind CSS • shadcn/ui • Material UI • Figma
+
+### Backend
+
+NestJS • Node.js • Django REST Framework • REST APIs • Microservices
+
+### Databases
+
+PostgreSQL • Prisma ORM • MySQL • MongoDB
+
+### Messaging & Performance
+
+Redis • RabbitMQ • BullMQ
+
+### AI & Automation
+
+OpenAI API • RAG • n8n • Retell AI • AI Voice Agents • AI Forecasting
+
+### Infrastructure & DevOps
+
+Docker • Kubernetes • Nginx • AWS S3 • GitHub Actions • Linux • CI/CD
+
+---
+
+## 📈 GitHub Statistics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=abeni-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -60,13 +106,24 @@ in partnership with a government education body.
 
 ---
 
-## 🌍 Connect
+# 🌍 Connect
 
-🌐 Portfolio: [abenezersileshi.pro.et](https://abenezersileshi.pro.et)
-💼 LinkedIn: [linkedin.com/in/abenezer-sileshi](https://linkedin.com/in/abenezer-sileshi)
-📧 Email: abinesilew@gmail.com
+🌐 **Portfolio:** https://abenezersileshi.pro.et
+
+💼 **LinkedIn:** https://linkedin.com/in/abenezer-sileshi
+
+📧 **Email:** abinesilew@gmail.com
 
 ---
 
-> Building software that solves real business problems — clean architecture,
-> scalable systems, measurable results.
+## 🎯 Currently Exploring
+
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases (Pinecone)
+- Claude API
+- AI Agent Workflows
+- Advanced Multi-Agent Systems
+
+---
+
+> **Building software that solves real business problems through clean architecture, scalable systems, and measurable engineering outcomes.**
